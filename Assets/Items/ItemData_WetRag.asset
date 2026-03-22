@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b38a34c07da2240a5860380181776c, type: 3}
+  m_Name: ItemData_WetRag
+  m_EditorClassIdentifier: 
+  itemName: "\u6FD5\u62B9\u5E03"
+  itemIcon: {fileID: 21300000, guid: c9cd344441907fb4fb67971489e7a4d9, type: 3}
+  itemModelPrefab: {fileID: 1894475657061592302, guid: 038daea8554077c41a42a2cfeae2ac41, type: 3}
+  itemType: 2
+  isStackable: 0
+  maxStackSize: 1
+  itemDescription: "\u9069\u5408\u521D\u671F\u5C0F\u706B\uFF0C\u5982\uFF1A\u934B\u908A\u6CB9\u6EF4\uFF0C\u5C0F\u7D19\uFF0C\u5E03\u6599\u8D77\u706B\u7B49\uFF0C\u9069\u5408\u5EDA\u623F\n"
+  usageHint: "\u9EDE\u64CAE\u9375\u4F7F\u7528\u3002"

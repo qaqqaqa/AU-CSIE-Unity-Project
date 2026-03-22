@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/LoginScene.unity
+    guid: 8c6e7faafaa0a6d49b651db553dc2c11
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 904a14464b2d66d4ab5074b526f0a780
+  - enabled: 1
+    path: Assets/ItemInfo.unity
+    guid: 96ab9e6c594e6c94995015a706d99ca1
+  - enabled: 1
+    path: Assets/Tutorial.unity
+    guid: 6ba48d0ecf268434787c626654c891dc
+  - enabled: 1
+    path: Assets/Escape.unity
+    guid: 2c7e0734536f7164fa73f31633ac1cb6
+  - enabled: 1
+    path: Assets/Escape_BigFire.unity
+    guid: 354c907bbc1ea3b4ea392e2863e560bb
+  - enabled: 1
+    path: Assets/ItemInfo1.unity
+    guid: 3d104419b2cec1f448e3fb918740f5fb
+  - enabled: 1
+    path: Assets/ItemInfo2.unity
+    guid: 26aea41b219bb5e4d8fb3116eca2f85e
+  - enabled: 1
+    path: Assets/ItemInfo3.unity
+    guid: e10636d083a163346a06ee563c74d3f1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b38a34c07da2240a5860380181776c, type: 3}
+  m_Name: ItemData_BakingSoda
+  m_EditorClassIdentifier: 
+  itemName: "\u8607\u6253\u7C89"
+  itemIcon: {fileID: 21300000, guid: 3068f61160a3fa442aed95f82d2cfa22, type: 3}
+  itemModelPrefab: {fileID: 4510584333667912075, guid: c5214e4acc38c93468821aaca7692cdd, type: 3}
+  itemType: 3
+  isStackable: 0
+  maxStackSize: 1
+  itemDescription: "\u50C5\u9069\u7528\u65BC\u521D\u671F\u706B\u707D\uFF0C\u5982\uFF1A\u934B\u4E2D\u8D77\u706B\uFF0C\u5C0F\u584A\u5E03\u6599\u71D2\u8D77\u4F86\u9069\u5408\u5EDA\u623F"
+  usageHint: "\u9EDE\u64CAE\u9375\u4F7F\u7528\u3002"

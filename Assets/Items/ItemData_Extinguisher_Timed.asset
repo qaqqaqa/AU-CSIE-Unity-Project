@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79b38a34c07da2240a5860380181776c, type: 3}
+  m_Name: ItemData_Extinguisher_Timed
+  m_EditorClassIdentifier: 
+  itemName: "\u9650\u6642\u6EC5\u706B\u5668"
+  itemIcon: {fileID: 21300000, guid: ddd29a46866bb344681dcc97ba19c68c, type: 3}
+  itemModelPrefab: {fileID: 1266501428343746273, guid: 8a6e718931c290641a10e82768e045d0, type: 3}
+  itemType: 1
+  isStackable: 0
+  maxStackSize: 1
+  itemDescription: "\u719F\u8A18\u300C\u62C9\uFF0C\u62D4\uFF0C\u63E1\uFF0C\u6383\u300D\u6B65\u9A5F\uFF1A\n\u6383\u52D5\u6EC5\u706B\u5668\u5F9E\u5074\u908A\u6383\u5C04\u706B\u6E90\u5E95\u90E8\u3002\n\u9069\u5408\u81E5\u5BA4\uFF0C\u5EDA\u623F"
+  usageHint: "\u9EDE\u64CAE\u9375\u4F7F\u7528\u3002"
+  currentDurability: -1
+  maxDurability: -1
