@@ -5,7 +5,7 @@
 ---
 
 ## 🎮 遊戲展示 (Demo)
-[遊戲截圖]<img width="564" height="529" alt="螢幕擷取畫面 2025-12-12 133843" src="https://github.com/user-attachments/assets/2b670d02-a606-4bb2-bc43-33378cf51fb6" /> 
+<img width="564" height="529" alt="螢幕擷取畫面 2025-12-12 133843" src="https://github.com/user-attachments/assets/2b670d02-a606-4bb2-bc43-33378cf51fb6" /> 
           <img width="2255" height="1111" alt="螢幕擷取畫面 2025-11-23 133519" src="https://github.com/user-attachments/assets/e2bd5511-14d5-4dbf-af89-aa58210e86ab" />
 
 
